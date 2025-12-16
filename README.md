@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-TOKEN = "ТУТ_ТВІЙ_TOKEN"
+TOKEN = "8372718905:AAGLga3cB9E3WKFjdDZGG_xCnz8s9-5wt_A"
 
 # слова реклами
 BAD_WORDS = [
